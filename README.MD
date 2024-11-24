@@ -16,4 +16,24 @@ npm -v
 npm create vite
 - And follow the instruction
 ```
-# my-first-react-project
+
+## Install the modules
+
+```
+npm install
+- After this you can see `node_modules` folder in the project explorer
+```
+
+## Run the Project
+
+```
+npm run dev
+```
+
+## SUMMARY
+
+```
+npm create vite
+npm install
+npm run dev
+```
